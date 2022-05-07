@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
+🔗 &nbsp;**Let's connect**
+<p align="left">
+ <a href="https://twitter.com/deCatheu" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="@deCatheu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cyril-de-catheu" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="cyril-de-catheu" height="30" width="40" /></a>
+<a href="https://medium.com/@cdecatheu" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" alt="@cdecatheu" height="30" width="40" /></a>
+</p>
+
 
 </br>
 👀 &nbsp;  
