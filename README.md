@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-- I'm a software engineer @[Startree.ai](https://www.startree.ai/).  
-- I work on data intensive backends. I spend most of my time on [ThirdEye](https://github.com/startreedata/thirdeye/) these days.  
+- I'm a software engineer @[ClickHouse](http://github.com/ClickHouse).  
+- I'm the creator of [Javelit](https://github.com/javelit/javelit) - Streamlit for Java.
+- I work on data intensive backends.  
 - My interest lies in streaming systems, data warehousing, timeseries analysis, data quality, and exploration/exploitation problems.  
 - In terms of business, I’m mostly interested in cloud offerings and open-source business models.  
-- Previously @[AB Tasty](https://www.abtasty.com/) and alumnus of Centrale Nantes - Computer Science.
+- Previously:
+  - @StarTree - spent most of my time on a monitoring solution, [ThirdEye](https://github.com/startreedata/thirdeye/) and [Apache Pinot](https://github.com/apache/pinot)
+  - @[AB Tasty](https://www.abtasty.com/) 
+  - alumnus of Centrale Nantes - Computer Science.
 
 <!--
 **cyrilou242/cyrilou242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
